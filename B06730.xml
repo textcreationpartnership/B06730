@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royall oak: or, The wonderfull travels, miraculous escapes, strange accidents of his sacred majesty King Charles the second. How from Worcester fight by a good hap, our royall king made an escape ... To the tune of, In my freedom is all my joy.</title>
+            <author>Wade, John, fl. 1660-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660-1664?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06730</idno>
+            <idno type="STC">Wing W68A</idno>
+            <idno type="STC">ESTC R186100</idno>
+            <idno type="EEBO-CITATION">47012701</idno>
+            <idno type="OCLC">ocm 47012701</idno>
+            <idno type="VID">174668</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06730)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174668)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2694:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royall oak: or, The wonderfull travels, miraculous escapes, strange accidents of his sacred majesty King Charles the second. How from Worcester fight by a good hap, our royall king made an escape ... To the tune of, In my freedom is all my joy.</title>
+                  <author>Wade, John, fl. 1660-1680.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Tyus ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[between 1660 and 1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains 3 illustrations.</note>
+                  <note>Date of publication taken from Wing (2nd ed.)</note>
+                  <note>Right half-sheet contains: The second part, to the same tune.</note>
+                  <note>Signed at end: J. W.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-06</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174668:1"/>
+            <!-- PDF PAGE 4 -->
+            <head>The Royall Oak: OR, The wonderfull travells, miraculous eſcapes, ſtrange accidents of his ſacred Majeſty King <hi>Charles</hi> the Second.</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>How from Worceſter fight by good hap, Our Royall King made an eſcape;</hi>
+                  </l>
+                  <l>
+                     <hi>How he diſ-rob'd himſelf of things that precious were,</hi>
+                  </l>
+                  <l>
+                     <hi>And with a knife cut off his curled hair;</hi>
+                  </l>
+                  <l>
+                     <hi>How a hollow Oak his palace was as then, And how King Charles became a ſerving-man</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, in my freedom is all my Joy.</opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>COme friends and unto me draw near</l>
+               <l>A ſorrowfull dity you ſhall hear,</l>
+               <l>You that deny your lawfull Prince</l>
+               <l>Let Conſcience now your faults convince,</l>
+               <l>And now in love and not in fear,</l>
+               <l>Now let his Preſence be your joy,</l>
+               <l>
+                  <hi>whom God in mercy would not deſtroy</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The relation that here I bring</l>
+               <l>Concerning <hi>Charles</hi> our Royall King,</l>
+               <l>Through what dangers he hath paſt</l>
+               <l>And is proclaimed King at laſt;</l>
+               <l>The Princes ſorrows we will ſing</l>
+               <l>Which the fates ſorely did anoy</l>
+               <l>
+                  <hi>and God in mercy would not deſtroy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>After <hi>Worceſter</hi> most fatall fight</l>
+               <l>When that King <hi>Charles</hi> was put flight,</l>
+               <l>When many men their lives laid down</l>
+               <l>To bring their Soveraign to the Crown,</l>
+               <l>The which was a moſt glorious ſight;</l>
+               <l>Great was his Majeſties convoy</l>
+               <l>
+                  <hi>whom God in mercy would not deſtroy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In <hi>Worceſter</hi> battle fierce and hot,</l>
+               <l>His horſe twice under him was ſhot;</l>
+               <l>And by a wiſe and prudent thrift</l>
+               <l>To ſave his life was forc'd to ſhift,</l>
+               <l>Without difficulty it was not:</l>
+               <l>Providence did him ſafely convey</l>
+               <l>
+                  <hi>whom God in mercy would not deſtroy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And being full of diſcontents</l>
+               <l>Stript off his Princely Ornaments,</l>
+               <l>Thus full of troubles and of cares,</l>
+               <l>A knife cut off his curled hairs,</l>
+               <l>Whereby the hunters he prevents:</l>
+               <l>God did in mercy him convoy</l>
+               <l>
+                  <hi>So that they could not him deſtroy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A chain of gold he gave away</l>
+               <l>Worth thrée hundred pounds that day.</l>
+               <l>In this diſguiſe by honeſt thrift</l>
+               <l>Command all for themſelves to ſhift,</l>
+               <l>With one friend both night and day:</l>
+               <l>Poor Prince alone to Gods convoy</l>
+               <l>
+                  <hi>His foes they could not him deſtroy.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Theſe two wandred into a Wood</l>
+               <l>Where a hollow Oak there ſtood,</l>
+               <l>And for his precious lives dear ſake</l>
+               <l>Did of that Oak his palace make,</l>
+               <l>His friend towards night provided food,</l>
+               <l>So their precious lives the did enjoy</l>
+               <l>
+                  <hi>whom God in mercy would not deſtroy</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Lord <hi>Willmot</hi> moſt valiant and ſtout;</l>
+               <l>He was purſued by the Rout,</l>
+               <l>Was hid in a fiery kiln of Mault</l>
+               <l>And ſo eſcaped the Souldiers aſſault,</l>
+               <l>Which ſearched all the houſe about,</l>
+               <l>Not dreaming the kiln was his convoy</l>
+               <l>
+                  <hi>which God in mercy would not deſtroy.</hi>
+               </l>
+            </lg>
+            <div n="1" type="part">
+               <pb facs="tcp:174668:1"/>
+               <!-- PDF PAGE 4 -->
+               <head>The Second Part,</head>
+               <opener>To the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>ANd relates King <hi>Charles</hi> his miſeries,</l>
+                  <l>Which forces tears from tender eyes;</l>
+                  <l>Miſtriſſe Lane entreats him earneſtly,</l>
+                  <l>For to find out his Majeſty,</l>
+                  <l>And him to ſave ſhe would deviſe,</l>
+                  <l>Vnto her houſe they him convoy,</l>
+                  <l>
+                     <hi>Whom God, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>King <hi>Charles</hi> a livery Cloak more than,</l>
+                  <l>And became a Servingman,</l>
+                  <l>And Weſtward rode towards the Sea,</l>
+                  <l>Intended tranſported to be,</l>
+                  <l>And Miſtriſſe <hi>Lane</hi> now pleaſe he can,</l>
+                  <l>Which was the Kings ſafeſt convoy,</l>
+                  <l>
+                     <hi>Whom God, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>An accident of great renown,</l>
+                  <l>As they were for to ride throw a Town,</l>
+                  <l>A Troop of Horſe ſtood croſſe the ſtréet;</l>
+                  <l>Then jealouſie the King did gréet,</l>
+                  <l>And Fortune seem'd on him to frown,</l>
+                  <l>He thought the Fates would him annoy,</l>
+                  <l>
+                     <hi>Whom God in mercy, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The Captain commanded his men,</l>
+                  <l>To th' Right and Left to open then,</l>
+                  <l>For harmleſſe Travellers he them did take</l>
+                  <l>And an intervall for them did make,</l>
+                  <l>And ſo they paſſed on again</l>
+                  <l>Vnto King <hi>Charles's</hi> no ſmall joy.</l>
+                  <l>
+                     <hi>Whom God, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>His Miſtreſſe coming to her In</l>
+                  <l>Left <hi>William</hi> her man in the Kitchin;</l>
+                  <l>The Cook maid askt where he was born,</l>
+                  <l>And what Trade that he did learn:</l>
+                  <l>To frame his excuſe he did begin,</l>
+                  <l>Thus his ſorrow was turnd to joy,</l>
+                  <l>
+                     <hi>Whom God, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>To anſwer mild he thus begun,</l>
+                  <l>At <hi>Brumigam</hi> a Nailers ſon:</l>
+                  <l>Then ſaid the maid the Iack ſtands ſtill,</l>
+                  <l>Pray wind it up if that you will,</l>
+                  <l>Which he did, ſuſpition to ſhun,</l>
+                  <l>And ſomewhat did the ſame annoy,</l>
+                  <l>
+                     <hi>Yet did not the ſame quite deſtroy.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>As thoſe that were by do ſay</l>
+                  <l>He went about it the wrong way,</l>
+                  <l>Which angred the Maid the ſame to ſée.</l>
+                  <l>She call'd him a clowniſh Boobée</l>
+                  <l>In all my life that ever I ſaw;</l>
+                  <l>Her railing caus'd him laugh for joy.</l>
+                  <l>
+                     <hi>Whom God, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>After many wéeks in jeopardy,</l>
+                  <l>He was waſted into <hi>Normandy,</hi>
+                  </l>
+                  <l>The God of Heaven for his perſon ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'d,</l>
+                  <l>The Ship-Maſter had a great reward.</l>
+                  <l>Thus the good Prince from hence did fly<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>To ſuffer hardſhip he was not coy.</l>
+                  <l>
+                     <hi>Which now will be this nations joy.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>J. W.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for <hi>Charles Tyus</hi> on <hi>London-Bridge.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
